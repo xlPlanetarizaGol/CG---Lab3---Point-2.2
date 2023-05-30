@@ -8,5 +8,5 @@ Se utilizaron 3 objetos del servidor de imagenes https://www.turbosquid.com/es/S
 - Sol.
 - Boca abierta y cerrada.
 
-Para acceder al desarrollo de los objetos en 3D e interactuar con las flechas del teclado, ingresa aquí: https://cg-lab3-point22.netlify.app/
+Para acceder al desarrollo de los objetos en 3D e interactuar con las flechas del teclado y el mouse, ingresa aquí: https://cg-lab3-point22.netlify.app/
 
